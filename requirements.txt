@@ -1,3 +1,6 @@
-numpy==1.19.5
-matplotlib==3.3.4
-streamlit==0.79.0
+streamlit==0.82.0
+pandas==1.2.4
+
+networkx~=2.5.1
+pandas~=1.2.4
+pyvis~=0.1.9
