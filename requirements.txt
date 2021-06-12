@@ -1,5 +1,4 @@
 streamlit==0.82.0
-pandas==1.2.4
 
 networkx~=2.5.1
 pandas~=1.2.4
